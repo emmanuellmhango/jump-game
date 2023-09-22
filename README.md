@@ -26,4 +26,4 @@ run the code:
 
 ## License
 
-[GNU General Public License v3.0 (GPL-3.0)] ("./LICENSE")
+This project is [GNU General Public License v3.0](./LICENSE) licensed.
