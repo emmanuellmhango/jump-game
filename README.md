@@ -15,7 +15,7 @@ Example 1:
 
 ## How to run the code
 
-clone the repository by running the following command:
+clone the repository by running the following command:<br />
 `git clone https://github.com/emmanuellmhango/jump-game.git`
 
 cd into the directory:
