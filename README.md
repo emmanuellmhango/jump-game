@@ -1,4 +1,4 @@
-# jump-game Mock Technical Interview
+# JUMP GAME MOCK INTERVIEW - TECHNICAL CHALLENGE
 
 ## Overview
 
